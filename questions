@@ -1,0 +1,5 @@
+Drill A : make a dict for one incident with id, facility and temp. Print the facility.
+
+Drill B: write a function is_hot(temp) that returns True if temp is 90 or more, otherwise False. Call it twice with different numbers and print the results.
+
+Drill C: make a list of 3 temps, for example [72, 95, 101]. Loop through it and print each temp next to its is_hot result.
